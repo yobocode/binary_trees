@@ -276,18 +276,17 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Oluwadamilola Olaniyi</summary>
+    <summary>yobocode</summary>
     <ul>
-    <li><a href="https://www.github.com/oludammydy">Github</a></li>
-    <li><a href="https://www.twitter.com/dharmires">Twitter</a></li>
-    <li><a href="mailto:oludammydy@gmail.com">e-mail</a></li>
+    <li><a href="https://github.com/yobocode">Github</a></li>
+    <li><a href="https://twitter.com/yibrahamare1">Twitter</a></li>
+    <li><a href="mailto:yibrahamare@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
-    <summary>Bamidele Adefolaju</summary>
+    <summary>ezana73</summary>
     <ul>
-    <li><a href="https://www.github.com/lexxyla">Github</a></li>
-    <li><a href="https://www.twitter.com/#">Twitter</a></li>
-    <li><a href="mailto:#@gmail.com">e-mail</a></li>
+    <li><a href="https://github.com/ezana73">Github</a></li>
+    <li><a href="mailto:ezana49@gmail.com">e-mail</a></li>
     </ul>
 </details>
